@@ -55,4 +55,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/1577f54e-f6f1-484a-bca9-c0ca29786f95)
 
 **RESULTS**
+
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
